@@ -1,0 +1,44 @@
+body {
+  font-family: "Outfit", sans-serif;
+  font-size: 0.9375rem;
+  background: hsl(212, 45%, 89%);
+  color: hsl(220, 15%, 55%);
+
+  display: grid;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  line-height: 1.5rem;
+}
+
+main {
+  display: grid;
+  position: relative;
+  grid-template-columns: 1fr;
+}
+
+.qr-code {
+  display: grid;
+  max-height: 497px;
+  max-width: 320px;
+  background: white;
+  border-radius: 1rem;
+  text-align: center;
+  padding: 1rem;
+  box-shadow: 10px 10px 8px hsl(212, 45%, 89%);
+}
+
+img {
+  border-radius: 0.6rem;
+}
+
+h2 {
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  padding: 2rem 1rem 1rem 1rem;
+}
+
+p {
+  padding: 0 1rem 1rem 1rem;
+  line-height: 1.2rem;
+}
