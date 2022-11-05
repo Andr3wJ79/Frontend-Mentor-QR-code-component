@@ -8,9 +8,10 @@ Built with
 - CSS custom properties
 - CSS Grid
 
+
 - Frontend Mentor - [@Andr3wJ](https://www.frontendmentor.io/profile/Andr3wJ79)
 
 Links
 
-- Solution URL: (https://github.com/Andr3wJ79/Frontend-Mentor-QR-code-component.git)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: https://github.com/Andr3wJ79/Frontend-Mentor-QR-code-component.git
+- Live Site URL: https://andr3wj79.github.io/Frontend-Mentor-QR-code-component/
